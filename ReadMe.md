@@ -1,6 +1,9 @@
 # Hey Welcome Buddy 👋
 
-This is Rohit Madeshiya. Passionate to become a Full Stack Developer.
+
+## This is A Inueron Assingment Given in course to make a better in Css and UI Design
+
+This is Nilesh Kumar. Passionate to become a UI/UX Designer and Front End Developer.
 
 ## Project Name : **Hosting Landing Page !**
 
